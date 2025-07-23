@@ -23,7 +23,7 @@ This project uses the [Salesforce/blip-image-captioning-base](https://huggingfac
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/icey-caption-generator.git
+https://github.com/Manusd04/ICEY.git
 cd icey-caption-generator
 ````
 
