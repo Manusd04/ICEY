@@ -6,10 +6,9 @@ ICEY is a simple web app that generates natural language captions for images usi
 Upload any image, and ICEY will provide a smart caption describing its content.
 
 ---
-
 ## 🚀 Live Demo
 
-➡️ **Try it now**: [ICEY on Hugging Face](https://huggingface.co/spaces/MSD04/ICEY)  
+Try the live demo here: [ICEY on Hugging Face](https://huggingface.co/spaces/MSD04/ICEY)
 
 ---
 
