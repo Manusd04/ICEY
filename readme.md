@@ -9,8 +9,7 @@ Upload any image, and ICEY will provide a smart caption describing its content.
 
 ## 🚀 Live Demo
 
-Try it live here:  
-[https://huggingface.co/spaces/MSD04/ICEY](https://huggingface.co/spaces/MSD04/ICEY)
+[Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/MSD04/ICEY)
 
 ---
 
