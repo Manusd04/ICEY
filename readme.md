@@ -1,5 +1,3 @@
-Got it! Here's a clean, easy-to-copy `README.md` you can directly paste into your GitHub repo:
-
 ````markdown
 # ❄️ ICEY — Intelligent Captioning Engine for You
 
@@ -13,6 +11,24 @@ Upload any image, and ICEY will provide a smart caption describing its content.
 
 Try it live here:  
 [https://huggingface.co/spaces/MSD04/ICEY](https://huggingface.co/spaces/MSD04/ICEY)
+
+---
+
+## 🖼️ Features
+
+- Upload any image to get an automatic caption  
+- Fast and accurate caption generation using state-of-the-art BLIP model  
+- 👍👎 Provide feedback to help improve the service  
+- Simple and intuitive interface  
+
+---
+
+## 🛠️ How to Use
+
+1. Upload an image by clicking on the "Upload Image" area  
+2. Click the "Generate Caption" button  
+3. View the generated caption in the text box  
+4. (Optional) Provide feedback on the caption quality  
 
 ---
 
@@ -67,8 +83,3 @@ MIT License
 ---
 
 Feel free to contribute or open issues!
-
-```
-
-Just replace the `git clone` URL with your repo URL and you're good to go!
-```
